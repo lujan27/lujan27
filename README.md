@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working from my home in a freelance role<br>🌱 I'm studing, learning and growing like a developer! <br>💬 Keep in contact with me for create awesome projects
+🔭 I'm currently working at TCS (TATA Consultancy Services) <br>🌱 I'm studing, learning and growing like a developer! <br>💬 Keep in contact with me for create awesome projects
 
 
 ## 🌐 Socials:
