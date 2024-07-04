@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working at TCS (TATA Consultancy Services) <br>🌱 I'm studing, learning and growing up in development area! <br>💬 Keep in touch with me to create awesome projects
+🔭 I'm currently looking for a new role as a developer <br>🌱 I'm studing, learning and growing up in development area! <br>💬 Keep in touch with me to create awesome projects
 
 
 ## 🌐 Socials:
